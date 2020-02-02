@@ -1,7 +1,7 @@
 # Game_of_Life
 Game of life programmed in C, with ability to read maps from files
 
-Uses Curses library, compiles with makefile.
+Uses nCurses library, compiles with makefile.
 
 # Manual
 Program first asks if you want to load a file or exit from the program
